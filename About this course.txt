@@ -1,0 +1,25 @@
+Where to find the course / Scholarship details?
+	- Before any of this began, I first noticed that Microsoft Azure is giving away 300 scholarships for the ML Nanodegree program on a random news portal. But then I couldn't trace out where the course was being provided.
+	- And then I googled the same and found out, the course was being offered on Udacity.
+	- Moral: Subscribe yourself to news portals. Keep looking up the sites where you can find courses/content that interests you regularly.
+
+How to apply for the ML Nanodegree Scholarship?
+	- Udacity website link: https://www.udacity.com/
+	- You need to have an account on Udacity (for this course).
+	- On the Udacity scholarships page, ML Nanodegree program was featured so you can just click the banner and proceed further.
+	- You need to fill up the Scholarship form that contains too many details regarding your personal detials, code experience, ML / statistics experience, your time contribution to the course if you'd crack this scholarship, your resume and some mini-essay type questions.
+	- After submitting the form, you have to wait for a response from the Udacity team. They will contact you on the e-mail address you provided while signing up / registering for the scholarship. They generally contact you within (at most) 1 month of time.
+
+Who can apply?
+	- Anyone who is at least 18 years old can apply for this scholarship.
+
+Course details
+	- Machine Learning Nanodegree program With Low-Code experience
+	- Nanodegree is split up into two courses: Foundations course & Advanced course
+	- Foundations course is considered as the Phase-1 course and the other, Phase-2
+	- Foundations course has 8 Chapters which has internal modules in each chapter.
+	- Foundations course takes hardly a month (or lesser) to accomplish. However the course duration lasts about 2 months.
+	- The foundation course includes video resources, access to Azure ML studio labs, and variety of quizes making the learning process way more exciting!
+	- No certificate will be provided for just the foundations course.
+	- Along with the course, students will avail opportunities of being a part of the Udacity community and community participation also accounts into the selection of further top 300 students for the Phase-2 batch.
+	
